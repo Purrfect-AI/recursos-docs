@@ -1,5 +1,5 @@
 
-![banner PurrfectAI](purrfectAI_banner.png)
+![banner PurrfectAI](images/purrfectAI_banner.png)
 
 
 ## Entornos virtuales
@@ -24,13 +24,13 @@ Para quienes gusten de las interfaces gráficas, la opción disponible para la c
 Además, la instalación incluye *Conda* y *Anaconda Navigator*, una aplicación de escritorio con una interfaz gráfica amigable que permite el manejo de entornos virtuales y sus librerías. 
 Anaconda Navigator resulta muy útil cuando no estás familiarizado con el uso de terminales o línea de comandos. Mediante su interfaz gráfica podrás crear entornos virtuales y seleccionar los paquetes que desees instalar.
 Desde la interfaz de Anaconda Navigator, además están disponibles diferentes IDEs y editores de código con los que puedes trabajar. 
-![IDEs en Anaconda Navigator](navigator.png)
+![IDEs en Anaconda Navigator](images/navigator.png)
 
 ### Jupyter Notebooks
 
 Por otro lado, está Jupyter Notebook. Ésta es una aplicación web de código abierto que permite crear y compartir documentos que contienen código, ecuaciones, visualizaciones y texto.
 Los Jupyter notebooks estan divididos en celdas, cada celda puede usar un lenguaje distinto. Entre las opciones disponibles se encuentran: 
-![Lenguajes disponibles en Jupyter Notebook](cell_options.png)
+![Lenguajes disponibles en Jupyter Notebook](images/cell_options.png)
 
 Los Jupyter Notebooks se pueden usar desde el navegador o en un IDE (por ejemplo Visual Studio Code).
 
@@ -46,14 +46,14 @@ Trabajar con Jupyter Notebook en VS Code es tan simple como crear un archivo con
 
 En la siguiente imagen se puede ver un archivo llamado _test.ipynb_ con 2 celdas: una para ejecutar código Python y la otra Markdown. 
 
-![Archivo con extension .ipynb](file_ipynb.png)
+![Archivo con extension .ipynb](images/file_ipynb.png)
 
 Para poder ejecutar código Python es necesario seleccionar el kernel (Python environments) con el que queremos trabajar. 
 Los entornos virtuales creados con Conda (o Anaconda) serán los que aparezcan en la lista de Python environments. En este caso, hay 2: **base** creado por defecto y **prueba** que lo hemos creado nosotros.
 
-![Entornos de Conda](conda_envs.png)
+![Entornos de Conda](images/conda_envs.png)
 
 En la siguiente imagen se despliegan los kernels disponibles: **base** y **prueba**. 
 Además, se visualizan las versiones de Python del sistema operativo. No es recomendable usarlos. 
 
-![Lista de Python environments](list_python_envs.png)
+![Lista de Python environments](images/list_python_envs.png)
